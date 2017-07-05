@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<c2eventsheet>
+    <!--All the 'name' attributes are ignored by Construct 2 - they are there for readability only.-->
+    <name>Event face12</name>
+    <events>
+        <include>Event sheet 1</include>
+        <event-block disabled="1" sid="179765926430809">
+            <conditions>
+                <condition id="-2" name="On start of layout" sid="290849417578973" type="System" />
+            </conditions>
+            <actions>
+                <action behavior="Pin" id="0" name="Pin to object" sid="293725367924288" type="CurupiraDesenho">
+                    <param id="0" name="Pin to">Bloco</param>
+                    <param id="1" name="Mode">0</param>
+                </action>
+                <action id="-10" name="Set value" sid="386264045612059" type="CurupiraDesenho">
+                    <param id="0" name="Instance variable">Vida</param>
+                    <param id="1" name="Value">3</param>
+                </action>
+            </actions>
+        </event-block>
+        <event-block disabled="1" sid="341772374964734">
+            <conditions />
+            <actions>
+                <action id="-10" name="Add to" sid="732293397393565" type="System">
+                    <param id="0" name="Variable">Contar</param>
+                    <param id="1" name="Value">1</param>
+                </action>
+            </actions>
+        </event-block>
+        <event-block disabled="1" sid="435882690060995">
+            <conditions>
+                <condition id="-1" name="Every tick" sid="987725736471762" type="System" />
+            </conditions>
+            <actions>
+                <action id="0" name="Set text" sid="798776264243609" type="FumosText">
+                    <param id="0" name="Text">&quot;Fumos:&quot;&amp;Contar</param>
+                </action>
+            </actions>
+        </event-block>
+        <event-block disabled="1" sid="218747323343592">
+            <conditions>
+                <condition id="-14" name="Compare variable" sid="596998819799129" type="System">
+                    <param id="0" name="Variable">Contar</param>
+                    <param id="1" name="Comparison">0</param>
+                    <param id="2" name="Value">10</param>
+                </condition>
+            </conditions>
+            <actions>
+                <action id="-2" name="Go to layout" sid="826021715742971" type="System">
+                    <param id="0" name="Layout">Fase2</param>
+                </action>
+            </actions>
+        </event-block>
+        <event-block disabled="1" sid="540415351493695">
+            <conditions>
+                <condition id="0" name="On collision with another object" sid="467205792357864" type="Bloco">
+                    <param id="0" name="Object">LenhadorDesenho</param>
+                </condition>
+            </conditions>
+            <actions>
+                <action id="-12" name="Subtract from" sid="713148840540545" type="CurupiraDesenho">
+                    <param id="0" name="Instance variable">Vida</param>
+                    <param id="1" name="Value">1</param>
+                </action>
+                <action id="-9" name="Destroy" sid="595077057174184" type="Vida" />
+            </actions>
+        </event-block>
+        <event-block disabled="1" sid="274470745974647">
+            <conditions>
+                <condition id="-10" name="For" sid="144584364051314" type="System">
+                    <param id="0" name="Name">&quot;&quot;</param>
+                    <param id="1" name="Start index">1</param>
+                    <param id="2" name="End index">CurupiraDesenho.Vida-1</param>
+                </condition>
+            </conditions>
+            <actions>
+                <action id="-3" name="Create object" sid="237650331057866" type="System">
+                    <param id="0" name="Object to create">Vida</param>
+                    <param id="1" name="Layer">&quot;Hud&quot;</param>
+                    <param id="2" name="X">VidaVazia.X +(loopindex *Vida.Width)</param>
+                    <param id="3" name="Y">VidaVazia.Y</param>
+                </action>
+            </actions>
+        </event-block>
+    </events>
+</c2eventsheet>

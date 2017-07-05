@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<c2eventsheet>
+    <!--All the 'name' attributes are ignored by Construct 2 - they are there for readability only.-->
+    <name>Event Fim </name>
+    <events>
+        <event-block sid="142707460257299">
+            <conditions>
+                <condition id="-3" name="On end of layout" sid="538773735685588" type="System" />
+            </conditions>
+            <actions>
+                <action id="-2" name="Go to layout" sid="849054018239405" type="System">
+                    <param id="0" name="Layout">TelaInicial</param>
+                </action>
+            </actions>
+            <sub-events>
+                <event-block sid="749266112824800">
+                    <conditions>
+                        <condition id="2" name="Key is down" sid="981242902974596" type="Keyboard">
+                            <param id="0" name="Key">32 (Space)</param>
+                        </condition>
+                    </conditions>
+                    <actions>
+                        <action id="-2" name="Go to layout" sid="306469358131180" type="System">
+                            <param id="0" name="Layout">TelaInicial</param>
+                        </action>
+                    </actions>
+                </event-block>
+            </sub-events>
+        </event-block>
+    </events>
+</c2eventsheet>

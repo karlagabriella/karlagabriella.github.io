@@ -1,0 +1,531 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<c2project>
+    <name>Protetores da Floresta</name>
+    <description></description>
+    <version>1.0.0.0</version>
+    <author>Juliana e Karla</author>
+    <author-email></author-email>
+    <author-website>http://</author-website>
+    <app-id>com.mycompany.myapp</app-id>
+    <unique-id>2ypbksw9st6ax</unique-id>
+    <saved-with-version>24400</saved-with-version>
+    <used-plugins>
+        <plugin author="Scirra" id="Keyboard" version="1">Keyboard</plugin>
+        <plugin author="Scirra" id="Mouse" version="1">Mouse</plugin>
+        <plugin author="Scirra" id="Sprite" version="1">Sprite</plugin>
+        <plugin author="Scirra" id="Text" version="1">Text</plugin>
+        <plugin author="Scirra" id="TiledBg" version="1">Tiled Background</plugin>
+    </used-plugins>
+    <used-behaviors>
+        <behavior author="Scirra" id="Flash" version="1">Flash</behavior>
+        <behavior author="Scirra" id="Pin" version="1">Pin</behavior>
+        <behavior author="Scirra" id="Platform" version="1">Platform</behavior>
+        <behavior author="Scirra" id="Sin" version="1">Sine</behavior>
+        <behavior author="Scirra" id="bound" version="1">Bound to layout</behavior>
+        <behavior author="Scirra" id="jumpthru" version="1">Jump-thru</behavior>
+        <behavior author="Scirra" id="scrollto" version="1">Scroll To</behavior>
+        <behavior author="Scirra" id="solid" version="1">Solid</behavior>
+    </used-behaviors>
+    <used-effects />
+    <configurations>
+        <configuration exporter-descname="HTML5" exporter-id="html5" name="HTML5" />
+    </configurations>
+    <window-size>
+        <width>854</width>
+        <height>480</height>
+    </window-size>
+    <pixel-rounding>0</pixel-rounding>
+    <preview-effects>1</preview-effects>
+    <first-layout>TelaInicial</first-layout>
+    <use-loader-layout>0</use-loader-layout>
+    <configuration-settings>
+        <prop name="Clear background">Yes</prop>
+        <prop name="Downscaling">Medium quality</prop>
+        <prop name="Enable WebGL">On</prop>
+        <prop name="Fullscreen in browser">Letterbox scale</prop>
+        <prop name="Fullscreen scaling">High quality</prop>
+        <prop name="Loader style">Construct 2 splash</prop>
+        <prop name="Orientations">Any</prop>
+        <prop name="Pause on unfocus">No</prop>
+        <prop name="Physics engine">Box2D asm.js</prop>
+        <prop name="Preload sounds">Yes</prop>
+        <prop name="Preview browser">(default)</prop>
+        <prop name="Sampling">Linear</prop>
+        <prop name="Use high-DPI display">Yes</prop>
+    </configuration-settings>
+    <object-folder>
+        <object-type name="Chao" sid="585046335284737">
+            <plugin id="Sprite" />
+            <behaviors>
+                <behavior-type name="Solid" sid="302563055143754">
+                    <behavior id="solid" />
+                </behavior-type>
+            </behaviors>
+            <animation-folder>
+                <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="2647355553139884" speed="5">
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                </animation>
+            </animation-folder>
+        </object-type>
+        <object-type name="Bloco" sid="4081120605948059">
+            <plugin id="Sprite" />
+            <behaviors>
+                <behavior-type name="ScrollTo" sid="7095515386180215">
+                    <behavior id="scrollto" />
+                </behavior-type>
+                <behavior-type name="Platform" sid="5894239831520022">
+                    <behavior id="Platform" />
+                </behavior-type>
+                <behavior-type name="BoundToLayout" sid="6753122184322932">
+                    <behavior id="bound" />
+                </behavior-type>
+            </behaviors>
+            <animation-folder>
+                <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="5711362626897799" speed="5">
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                </animation>
+            </animation-folder>
+        </object-type>
+        <object-type name="Mouse" sid="6779100362976209">
+            <plugin id="Mouse" />
+        </object-type>
+        <object-type name="PersonagemCurupira" sid="973801052273711">
+            <plugin id="Sprite" />
+            <behaviors>
+                <behavior-type name="Pin" sid="384287999048748">
+                    <behavior id="Pin" />
+                </behavior-type>
+                <behavior-type name="Platform" sid="965220493684609">
+                    <behavior id="Platform" />
+                </behavior-type>
+                <behavior-type name="BoundToLayout" sid="980933169630576">
+                    <behavior id="bound" />
+                </behavior-type>
+            </behaviors>
+            <animation-folder>
+                <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="292809734980998" speed="5">
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="C:\Users\20151170150739\Pictures\Oficina de jogos\curupira.png">
+                        <collision-poly>
+                            <point x="0.188889" y="0.0962264" />
+                            <point x="0.5" y="0.0396226" />
+                            <point x="0.762963" y="0.120755" />
+                            <point x="0.92963" y="0.5" />
+                            <point x="0.944444" y="0.971698" />
+                            <point x="0.5" y="0.998113" />
+                            <point x="0.0592593" y="0.969811" />
+                            <point x="0.0333333" y="0.5" />
+                        </collision-poly>
+                    </frame>
+                </animation>
+            </animation-folder>
+        </object-type>
+        <object-type name="Keyboard" sid="918787630547205">
+            <plugin id="Keyboard" />
+        </object-type>
+        <object-type name="Manu" sid="919418997714943">
+            <plugin id="Sprite" />
+            <animation-folder>
+                <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="711974576846908" speed="5">
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="C:\Users\20151170150739\Pictures\Oficina de jogos\Menu.png" />
+                </animation>
+            </animation-folder>
+        </object-type>
+        <object-type name="BlocoDeMadeira" sid="863624968233064">
+            <plugin id="Sprite" />
+            <behaviors>
+                <behavior-type name="Solid" sid="986457744055686">
+                    <behavior id="solid" />
+                </behavior-type>
+            </behaviors>
+            <animation-folder>
+                <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="688508883067368" speed="5">
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                </animation>
+            </animation-folder>
+        </object-type>
+        <object-type name="EscolhaCurupira" sid="502455491436436">
+            <plugin id="Sprite" />
+            <animation-folder>
+                <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="550947909138015" speed="5">
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="C:\Users\20151170150739\Pictures\Oficina de jogos\curupira.png">
+                        <collision-poly>
+                            <point x="0.188889" y="0.0962264" />
+                            <point x="0.5" y="0.0396226" />
+                            <point x="0.762963" y="0.120755" />
+                            <point x="0.92963" y="0.5" />
+                            <point x="0.944444" y="0.971698" />
+                            <point x="0.5" y="0.998113" />
+                            <point x="0.0592593" y="0.969811" />
+                            <point x="0.0333333" y="0.5" />
+                        </collision-poly>
+                    </frame>
+                </animation>
+            </animation-folder>
+        </object-type>
+        <object-type name="EscolhaSaci" sid="818207188764223">
+            <plugin id="Sprite" />
+            <animation-folder>
+                <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="721712360343650" speed="5">
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="C:\Users\20151170150739\Pictures\Oficina de jogos\saci.png">
+                        <collision-poly>
+                            <point x="0.155556" y="0.0792453" />
+                            <point x="0.5" y="0.00377358" />
+                            <point x="0.818519" y="0.0924528" />
+                            <point x="0.696296" y="0.5" />
+                            <point x="0.955556" y="0.977359" />
+                            <point x="0.5" y="1" />
+                            <point x="0.0444444" y="0.977359" />
+                            <point x="0.303704" y="0.5" />
+                        </collision-poly>
+                    </frame>
+                </animation>
+            </animation-folder>
+        </object-type>
+        <object-type name="textCurupira" sid="486142134582877">
+            <plugin id="Text" />
+        </object-type>
+        <object-type name="TextSaci" sid="592659130160805">
+            <plugin id="Text" />
+        </object-type>
+        <object-type name="TelaDeFundo" sid="981751772931550">
+            <plugin id="Sprite" />
+            <animation-folder>
+                <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="528258164394882" speed="5">
+                    <frame duration="1" hotspotX="0.48542" hotspotY="0.486971" original-source="C:\Users\20151170150739\Pictures\Oficina de jogos\TelaInicial.png" />
+                </animation>
+            </animation-folder>
+        </object-type>
+        <object-type name="Plataforma" sid="594604638580246">
+            <plugin id="Sprite" />
+            <behaviors>
+                <behavior-type name="Solid" sid="165758413322218">
+                    <behavior id="solid" />
+                </behavior-type>
+            </behaviors>
+            <animation-folder>
+                <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="152360837518725" speed="5">
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                </animation>
+            </animation-folder>
+        </object-type>
+        <object-type name="BlocoPlataforma" sid="847128648809481">
+            <plugin id="Sprite" />
+            <behaviors>
+                <behavior-type name="Jumpthru" sid="453315571137158">
+                    <behavior id="jumpthru" />
+                </behavior-type>
+                <behavior-type name="Sine" sid="630687662969902">
+                    <behavior id="Sin" />
+                </behavior-type>
+            </behaviors>
+            <animation-folder>
+                <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="514091942943305" speed="5">
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                </animation>
+            </animation-folder>
+        </object-type>
+        <object-type name="Cachimbos" sid="247694391066357">
+            <plugin id="Sprite" />
+            <animation-folder>
+                <animation framecount="1" loop="0" name="cachimbo" pingpong="0" repeatcount="1" repeatto="0" sid="169518703562585" speed="5">
+                    <frame duration="1" hotspotX="0.501558" hotspotY="0.5" original-source="C:\Users\20151170150739\Pictures\Oficina de jogos\cachimbo.png" />
+                </animation>
+                <animation framecount="1" loop="0" name="fumo" pingpong="0" repeatcount="1" repeatto="0" sid="485530243705566" speed="5">
+                    <frame duration="1" hotspotX="0.478261" hotspotY="1" original-source="C:\Users\20151170150739\Downloads\Fumo - Desenho.png" />
+                </animation>
+            </animation-folder>
+        </object-type>
+        <object-type name="FumosText" sid="602876319732438">
+            <plugin id="Text" />
+        </object-type>
+        <object-type name="TextTitulo" sid="462579672555283">
+            <plugin id="Text" />
+        </object-type>
+        <object-type name="TextEnter" sid="268039536091682">
+            <plugin id="Text" />
+        </object-type>
+        <object-type name="CenarioFim" sid="177264435609600">
+            <plugin id="Sprite" />
+            <animation-folder>
+                <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="557772699457248" speed="5">
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="C:\Users\20151170150739\Desktop\Protetores Da Floresta\Oficina de jogos\Tela.png" />
+                </animation>
+            </animation-folder>
+        </object-type>
+        <object-type name="Fim" sid="258217552498583">
+            <plugin id="Text" />
+        </object-type>
+        <object-type name="Sprite2" sid="842727361883727">
+            <plugin id="Sprite" />
+            <animation-folder>
+                <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="684843820941801" speed="5">
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="C:\Users\20151170150739\Desktop\Protetores Da Floresta\Animations\EscolhaCurupira\Default\000.png">
+                        <collision-poly>
+                            <point x="0.188889" y="0.0962264" />
+                            <point x="0.5" y="0.0396226" />
+                            <point x="0.762963" y="0.120755" />
+                            <point x="0.92963" y="0.5" />
+                            <point x="0.944444" y="0.971698" />
+                            <point x="0.5" y="0.998113" />
+                            <point x="0.0592593" y="0.969811" />
+                            <point x="0.0333333" y="0.5" />
+                        </collision-poly>
+                    </frame>
+                </animation>
+            </animation-folder>
+        </object-type>
+        <object-type name="Sprite" sid="759353125037741">
+            <plugin id="Sprite" />
+            <animation-folder>
+                <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="165689157602376" speed="5">
+                    <frame duration="1" hotspotX="0.501066" hotspotY="0.501053" original-source="C:\Users\20151170150739\Desktop\Protetores Da Floresta\Animations\Bonecos\Saci- Desenho.png" />
+                </animation>
+            </animation-folder>
+        </object-type>
+        <object-type name="SaciDesenho" sid="673453744136139">
+            <plugin id="Sprite" />
+            <instance-variables>
+                <instance-variable name="Vida" sid="871161827104328" type="number" />
+            </instance-variables>
+            <behaviors>
+                <behavior-type name="Pin" sid="157585153505056">
+                    <behavior id="Pin" />
+                </behavior-type>
+            </behaviors>
+            <animation-folder>
+                <animation framecount="1" loop="0" name="Saci" pingpong="0" repeatcount="1" repeatto="0" sid="474334381322116" speed="5">
+                    <frame duration="1" hotspotX="0.363636" hotspotY="1.40385" original-source="C:\Users\20151170150739\Downloads\Saci- Desenho.png" />
+                </animation>
+                <animation framecount="1" loop="0" name="curupira" pingpong="0" repeatcount="1" repeatto="0" sid="151824308052779" speed="5">
+                    <frame duration="1" hotspotX="1.125" hotspotY="0.826087" original-source="C:\Users\20151170150739\Downloads\Curupira - Desenho (1).png" />
+                </animation>
+            </animation-folder>
+        </object-type>
+        <object-type name="TiledBackground" sid="313726955679866">
+            <plugin id="TiledBg" />
+            <texture original-source="C:\Users\20151170150739\Desktop\Protetores Da Floresta\Oficina de jogos\Tela.png" />
+        </object-type>
+        <object-type name="TiledBackground2" sid="346197988977920">
+            <plugin id="TiledBg" />
+            <texture original-source="C:\Users\20151170150739\Desktop\Protetores Da Floresta\Oficina de jogos\Tela.png" />
+        </object-type>
+        <object-type name="LenhadorDesenho" sid="555331987244902">
+            <plugin id="Sprite" />
+            <instance-variables>
+                <instance-variable name="Mover" sid="774060239609776" type="number" />
+            </instance-variables>
+            <behaviors>
+                <behavior-type name="Sine" sid="448068506434582">
+                    <behavior id="Sin" />
+                </behavior-type>
+            </behaviors>
+            <animation-folder>
+                <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="399385952608804" speed="5">
+                    <frame duration="1" hotspotX="0.505882" hotspotY="0.5" original-source="C:\Users\20151170150739\Desktop\Protetores Da Floresta\Oficina de jogos\Lenhador - Desenho.png" />
+                </animation>
+            </animation-folder>
+        </object-type>
+        <object-type name="Cenario" sid="426178760108738">
+            <plugin id="Sprite" />
+            <animation-folder>
+                <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="377573083942529" speed="5">
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="C:\Users\20151170150739\Desktop\Protetores Da Floresta\Oficina de jogos\Tela.png" />
+                </animation>
+            </animation-folder>
+        </object-type>
+        <object-type name="Sprite6" sid="841871845391951">
+            <plugin id="Sprite" />
+            <animation-folder>
+                <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="404406124726434" speed="5">
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                </animation>
+            </animation-folder>
+        </object-type>
+        <object-type name="TiledBackground3" sid="180480807988078">
+            <plugin id="TiledBg" />
+            <texture />
+        </object-type>
+        <object-type name="TiledBackground4" sid="703477049838031">
+            <plugin id="TiledBg" />
+            <texture />
+        </object-type>
+        <object-type name="TiledBackground6" sid="359875080264306">
+            <plugin id="TiledBg" />
+            <texture original-source="C:\Users\20151170150739\Desktop\Protetores Da Floresta\Oficina de jogos\Tela.png" />
+        </object-type>
+        <object-type name="VidaVazia" sid="913583475008389">
+            <plugin id="Sprite" />
+            <animation-folder>
+                <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="431066507798877" speed="5">
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="C:\Users\20151170150739\Desktop\Protetores Da Floresta\Oficina de jogos\folha-.png" />
+                </animation>
+            </animation-folder>
+        </object-type>
+        <object-type name="Vida" sid="544991029434405">
+            <plugin id="Sprite" />
+            <animation-folder>
+                <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="696037732885542" speed="5">
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="C:\Users\20151170150739\Desktop\Protetores Da Floresta\Oficina de jogos\Pintada.png" />
+                </animation>
+            </animation-folder>
+        </object-type>
+        <object-type name="Animação" sid="627160395989715">
+            <plugin id="Sprite" />
+            <animation-folder>
+                <animation framecount="4" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="511503429127326" speed="5">
+                    <frame duration="1" hotspotX="0.506024" hotspotY="0.5" original-source="C:\Users\20151170150739\Desktop\Protetores Da Floresta\Oficina de jogos\Animação1.png" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="C:\Users\20151170150739\Desktop\Protetores Da Floresta\Oficina de jogos\Animação2.png" />
+                    <frame duration="1" hotspotX="0.506024" hotspotY="0.5" original-source="C:\Users\20151170150739\Desktop\Protetores Da Floresta\Oficina de jogos\Animação3.png" />
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="C:\Users\20151170150739\Desktop\Protetores Da Floresta\Oficina de jogos\Curupira - Desenho.png" />
+                </animation>
+            </animation-folder>
+        </object-type>
+        <object-type name="CurupiraDesenho" sid="774123742742890">
+            <plugin id="Sprite" />
+            <instance-variables>
+                <instance-variable name="Vida" sid="234657559615137" type="number" />
+            </instance-variables>
+            <behaviors>
+                <behavior-type name="Platform" sid="888922698689730">
+                    <behavior id="Platform" />
+                </behavior-type>
+                <behavior-type name="Pin" sid="596390835737995">
+                    <behavior id="Pin" />
+                </behavior-type>
+                <behavior-type name="Flash" sid="438269263965469">
+                    <behavior id="Flash" />
+                </behavior-type>
+            </behaviors>
+            <animation-folder>
+                <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="806703582659684" speed="5">
+                    <frame duration="1" hotspotX="0.5" hotspotY="0.978261" original-source="C:\Users\20151170150739\Desktop\Protetores Da Floresta\Oficina de jogos\Curupira - Desenho.png" />
+                </animation>
+            </animation-folder>
+        </object-type>
+        <object-type name="TiledBackground7" sid="723454361707781">
+            <plugin id="TiledBg" />
+            <behaviors>
+                <behavior-type name="Solid" sid="354067734964343">
+                    <behavior id="solid" />
+                </behavior-type>
+            </behaviors>
+            <texture original-source="C:\Users\20151170150739\Desktop\Protetores Da Floresta\Oficina de jogos\folhas.png" />
+        </object-type>
+        <object-type name="TiledBackground5" sid="429475935809404">
+            <plugin id="TiledBg" />
+            <texture original-source="C:\Users\20151170150739\Desktop\Protetores Da Floresta\Oficina de jogos\Tela2.png" />
+        </object-type>
+        <object-type name="Sprite4" sid="338018829700897">
+            <plugin id="Sprite" />
+            <behaviors>
+                <behavior-type name="Solid" sid="757694884210416">
+                    <behavior id="solid" />
+                </behavior-type>
+            </behaviors>
+            <animation-folder>
+                <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="206509899086498" speed="5">
+                    <frame duration="1" hotspotX="0.676923" hotspotY="0.59322" original-source="C:\Users\20151170150739\Desktop\Protetores Da Floresta\Oficina de jogos\folhas.png" />
+                </animation>
+            </animation-folder>
+        </object-type>
+        <object-type name="Sprite7" sid="953648414419981">
+            <plugin id="Sprite" />
+            <animation-folder>
+                <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="989823328318325" speed="5">
+                    <frame duration="1" hotspotX="0.504" hotspotY="0.5" original-source="C:\Users\20151170150739\Desktop\Protetores Da Floresta\Oficina de jogos\folhas.png" />
+                </animation>
+            </animation-folder>
+        </object-type>
+        <object-type name="Plat" sid="677134432840576">
+            <plugin id="Sprite" />
+            <behaviors>
+                <behavior-type name="Sine" sid="882666153984837">
+                    <behavior id="Sin" />
+                </behavior-type>
+                <behavior-type name="Jumpthru" sid="945195484139897">
+                    <behavior id="jumpthru" />
+                </behavior-type>
+            </behaviors>
+            <animation-folder>
+                <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="850829614501108" speed="5">
+                    <frame duration="1" hotspotX="0.676923" hotspotY="0.59322" original-source="C:\Users\20151170150739\Desktop\Protetores Da Floresta\Oficina de jogos\folhas.png" />
+                </animation>
+            </animation-folder>
+        </object-type>
+        <object-type name="f" sid="663117927594780">
+            <plugin id="Sprite" />
+            <behaviors>
+                <behavior-type name="Sine" sid="456783152096809">
+                    <behavior id="Sin" />
+                </behavior-type>
+            </behaviors>
+            <animation-folder>
+                <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="404155658625210" speed="5">
+                    <frame duration="1" hotspotX="0.676923" hotspotY="0.59322" original-source="C:\Users\20151170150739\Desktop\Protetores Da Floresta\Oficina de jogos\folhas.png" />
+                </animation>
+            </animation-folder>
+        </object-type>
+        <object-type name="Sprite3" sid="920640096607376">
+            <plugin id="Sprite" />
+            <animation-folder>
+                <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="398995259836391" speed="5">
+                    <frame duration="1" hotspotX="-1.#IND" hotspotY="-1.#IND" />
+                </animation>
+            </animation-folder>
+        </object-type>
+        <object-type name="Sprite5" sid="760160411127984">
+            <plugin id="Sprite" />
+            <animation-folder>
+                <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="274281710442066" speed="5">
+                    <frame duration="1" hotspotX="-1.#IND" hotspotY="-1.#IND" />
+                </animation>
+            </animation-folder>
+        </object-type>
+        <object-type name="Sprite8" sid="823352871279077">
+            <plugin id="Sprite" />
+            <animation-folder>
+                <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="200586708763994" speed="5">
+                    <frame duration="1" hotspotX="0.50038" hotspotY="0.500612" original-source="C:\Users\20151170150739\Downloads\Game over - Pronto.png" />
+                </animation>
+            </animation-folder>
+        </object-type>
+    </object-folder>
+    <families />
+    <layout-folder>
+        <layout>Fase1.xml</layout>
+        <layout>TelaInicial.xml</layout>
+        <layout>MENU.xml</layout>
+        <layout>Fim.xml</layout>
+        <layout>face1.2.xml</layout>
+        <layout>Fase2.xml</layout>
+        <layout>Fase2.2.xml</layout>
+        <layout>Gamer Over.xml</layout>
+    </layout-folder>
+    <event-folder>
+        <event-sheet>Event sheet 1.xml</event-sheet>
+        <event-sheet>Event Tela inicial.xml</event-sheet>
+        <event-sheet>Event MENU.xml</event-sheet>
+        <event-sheet>Event Fim .xml</event-sheet>
+        <event-sheet>Event face12.xml</event-sheet>
+        <event-sheet>Event Fase2.xml</event-sheet>
+        <event-sheet>Event Fase22.xml</event-sheet>
+        <event-sheet>Event sheet 2.xml</event-sheet>
+        <event-sheet>Event sheet 3.xml</event-sheet>
+    </event-folder>
+    <global-instances>
+        <global-instance type="Mouse" uid="12" />
+        <global-instance type="Keyboard" uid="15" />
+    </global-instances>
+    <sounds-folder />
+    <music-folder />
+    <files-folder>
+        <file-folder name="Icons">
+            <file name="icon-16.png" />
+            <file name="icon-32.png" />
+            <file name="icon-114.png" />
+            <file name="icon-128.png" />
+            <file name="icon-256.png" />
+            <file name="loading-logo.png" />
+        </file-folder>
+    </files-folder>
+</c2project>
