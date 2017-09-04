@@ -1,5 +1,9 @@
 ﻿{
+<<<<<<< HEAD
 	"version": 1504550305,
+=======
+	"version": 1502739298,
+>>>>>>> 3aed91640e967f5c5b76fc8bfb20158962b6017e
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -10,9 +14,20 @@
 		"images/nome-sheet0.png",
 		"images/iefeitofundo.png",
 		"images/funfase.png",
+<<<<<<< HEAD
 		"images/bonequinho-sheet0.png",
 		"images/spritefundov-sheet0.png",
 		"images/spritefindejogo-sheet0.png",
+=======
+		"images/bonequinhocommaoslevantadas-sheet0.png",
+		"images/spriteumbigo-sheet0.png",
+		"images/scabello-sheet0.png",
+		"images/sbraço-sheet0.png",
+		"images/sombigo-sheet0.png",
+		"images/spritefundov-sheet0.png",
+		"images/spritefindejogo-sheet0.png",
+		"images/spie-sheet0.png",
+>>>>>>> 3aed91640e967f5c5b76fc8bfb20158962b6017e
 		"images/sbutaoganhou-sheet0.png",
 		"images/bganhou-sheet0.png",
 		"images/bfimdejogo-sheet0.png",
@@ -25,6 +40,7 @@
 		"images/spees-sheet0.png",
 		"images/solhodi-sheet0.png",
 		"images/solhodi-sheet1.png",
+<<<<<<< HEAD
 		"images/placa-sheet0.png",
 		"images/placa-sheet1.png",
 		"images/sensorpalavra-sheet0.png",
@@ -46,6 +62,10 @@
 		"media/382310__myfox14__game-over-arcade.ogg",
 		"media/karlinha e bele.ogg",
 		"media/vitoriaaa.ogg",
+=======
+		"media/382310__myfox14__game-over-arcade.m4a",
+		"media/382310__myfox14__game-over-arcade.ogg",
+>>>>>>> 3aed91640e967f5c5b76fc8bfb20158962b6017e
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
