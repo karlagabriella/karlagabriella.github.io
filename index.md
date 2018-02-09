@@ -11,7 +11,7 @@ Karla gabriella progamadora e estudande do curso de jogos digitaids no IFRN-CM.
 # Portfólio
 
 ## Games
-[EL Cuerpo](https://karlagabriella.github.io/El%20Cuerpo/)  
+[ ![](el cuerpo.png)](https://karlagabriella.github.io/El%20Cuerpo/)  
 
 
 ## Artes
@@ -21,7 +21,7 @@ Karla gabriella progamadora e estudande do curso de jogos digitaids no IFRN-CM.
 
 ![](unicornio.jpg)
 
-![](el cuerpo.jpg)
+
 
 ## Projeto
 ### Aulas
