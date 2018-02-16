@@ -8,7 +8,7 @@ layout: default
 
 Karla gabriella progamadora e estudande do curso de jogos digitaids no IFRN-CM.
 
-# Portfólio
+
 
 ## Games
 [ ![](el cuerpo.png)](https://karlagabriella.github.io/El%20Cuerpo/)   
@@ -34,3 +34,7 @@ Karla gabriella progamadora e estudande do curso de jogos digitaids no IFRN-CM.
 ##### Projeto Musicas
 
 
+# Contatos  
+[ ![](logotipo-circular-facebok_318-40188.jpg)](https://www.facebook.com/gabi.karla.feitosa)
+[ ![](new-instagram-logo-new-look-designboom-03.jpg)](https://www.instagram.com/k_gabrielap/)
+[ ![](pinterest-logotipo_318-33730.jpg)](https://br.pinterest.com/karlagabriella1206/)
