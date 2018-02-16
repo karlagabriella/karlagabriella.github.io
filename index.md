@@ -13,7 +13,9 @@ Karla gabriella progamadora e estudande do curso de jogos digitaids no IFRN-CM.
 ## Games
 [ ![](el cuerpo.png)](https://karlagabriella.github.io/El%20Cuerpo/)   
 
-[ ![](jogo labirinto.png)]()
+[ ![](jogo labirinto.png)](karlagabriella.github.io/LabyrinthFoodChain/)  
+
+[ ![]()]
 
 ## Artes
 * Desenhos
