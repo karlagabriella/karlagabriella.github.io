@@ -28,13 +28,4 @@ Karla gabriella progamadora e estudande do curso de jogos digitaids no IFRN-CM.
 #### Projeto Jogos
 ##### Projeto Musicas
 
-* * *
 
-**negrito    
-_italico    
-~~riscado    
-3 * linha horizontal (barra)  
-#s uma ou mais # criam capitolos ou sub capitlos.  
-1s numeros criam lista ordenada
-
-* * *
