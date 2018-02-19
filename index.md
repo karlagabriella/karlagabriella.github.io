@@ -22,13 +22,13 @@ Clik na imagem para jogar e divirta-se! (:
 
 [ ![](imagem3.png)](karlagabriella.github.io/LabyrinthFoodChain/)   
 
-Este e um jogo de labirindo onde você tem que ajudar ao personagem a encontrar sua presa certa,
+Este e um jogo de labirindo onde você tem que ajudar o personagem a encontrar sua presa certa,
 e um jogo educativo voltado para a área da biologia onde ocê apende um pouco sobre cadeias alimentares.
 Clik na imagem para jogar e divirta-se! (:  
 
 [ ![](imagem2.png)](https://karlagabriella.github.io/Protetores%20da%20Floresta/)     
 
-Jogo de plataforma onde com a sua ajuda o Saci ou O Curupira tem a missãode salvar a floresta
+Jogo de plataforma onde com a sua ajuda o Saci ou O Curupira tem a missão de salvar a floresta
 dos lenhadores que querem cortar as lindas e sentenarias árvores. Ajude-os e divirta-se!
 Clik na imagem para jogar! (:
 
@@ -58,4 +58,4 @@ Aqui se encontrará musicas feitas no aplicativo Audacety para meus jogos do fut
  
 
 # Contatos  
-[ ![](fb.png)](https://www.facebook.com/gabi.karla.feitosa)  [ ![](ig.png)](https://www.instagram.com/k_gabrielap/)   [ ![](pe.png)](https://br.pinterest.com/karlagabriella1206/)  [ ![](git.png)](karlagabriella.github.io/)  
+[ ![](fb.png)](https://www.facebook.com/gabi.karla.feitosa)  [ ![](ig.png)](https://www.instagram.com/k_gabrielap/)   [ ![](pe.png)](https://br.pinterest.com/karlagabriella1206/)  [ ![](github.png)](karlagabriella.github.io/)  
