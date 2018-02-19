@@ -6,33 +6,38 @@ layout: default
 
 # Quem sou eu
 
-Karla gabriella progamadora e estudande do curso de jogos digitaids no IFRN-CM.
+Ola! eu me chamo Karla e esse e meu site, um lugar que você sempre vai encontrar meus projetos musicais,
+projetos de jogos, desenhos etc.Eu estou no terceiro ano do curso de jogos digitais no IFRN-Ceara-Mirim. 
+Espero que goste de minhas ideias (;
 
+![](eu.jpg)  
 
 
 ## Games
-[ ![](el cuerpo.png)](https://karlagabriella.github.io/El%20Cuerpo/)   
+[ ![](imagem4.png)](https://karlagabriella.github.io/El%20Cuerpo/)   
 
-[ ![](jogo labirinto.png)](karlagabriella.github.io/LabyrinthFoodChain/)  
+[ ![](imagem3.png)](karlagabriella.github.io/LabyrinthFoodChain/)  
 
-[ ![](jogo protetores.png)](https://karlagabriella.github.io/Protetores%20da%20Floresta/)  
+[ ![](imagem2.png)](https://karlagabriella.github.io/Protetores%20da%20Floresta/)  
 
-[ ![](jogo tower.png)](https://karlagabriella.github.io/New%20project/)
+[ ![](imagem1.png)](https://karlagabriella.github.io/New%20project/)
 
 ## Artes
 * Desenhos
 
-![Gumball](https://img00.deviantart.net/e55c/i/2015/289/f/c/gumball_pixelart_by_sweetsncake-d9daonh.png)
-
-![](unicornio.jpg)
 
 
 
-## Projeto
-### Aulas
-#### Projeto Jogos
-##### Projeto Musicas
+## Projetos  
 
+### Projeto Jogos   
+
+Aqui vai se encontrar futuramente meus projetos de jogos.
+
+#### Projeto Musicais    
+
+Aqui se encontrará musicas feitas no aplicativo Audacety para meus jogos do futuro.
+ 
 
 # Contatos  
 [ ![](logotipo-circular-facebok_318-40188.jpg)](https://www.facebook.com/gabi.karla.feitosa)
