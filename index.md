@@ -14,13 +14,31 @@ Espero que goste de minhas ideias (;
 
 
 ## Games
-[ ![](imagem4.png)](https://karlagabriella.github.io/El%20Cuerpo/)   
+[ ![](imagem4.png)](https://karlagabriella.github.io/El%20Cuerpo/)    
 
-[ ![](imagem3.png)](karlagabriella.github.io/LabyrinthFoodChain/)  
+El Cuerpo e um jogo voltado para crianças onde através dele ensinamos um pouco de espanõl,
+fazemos isso atraves do corpo humado. E um jogo onde você aprende enquanto você se diverte!
+Clik na imagem para jogar e divirta-se! (:
 
-[ ![](imagem2.png)](https://karlagabriella.github.io/Protetores%20da%20Floresta/)  
+[ ![](imagem3.png)](karlagabriella.github.io/LabyrinthFoodChain/)   
 
-[ ![](imagem1.png)](https://karlagabriella.github.io/New%20project/)
+Este e um jogo de labirindo onde você tem que ajudar ao personagem a encontrar sua presa certa,
+e um jogo educativo voltado para a área da biologia onde ocê apende um pouco sobre cadeias alimentares.
+Clik na imagem para jogar e divirta-se! (:  
+
+[ ![](imagem2.png)](https://karlagabriella.github.io/Protetores%20da%20Floresta/)     
+
+Jogo de plataforma onde com a sua ajuda o Saci ou O Curupira tem a missãode salvar a floresta
+dos lenhadores que querem cortar as lindas e sentenarias árvores. Ajude-os e divirta-se!
+Clik na imagem para jogar! (:
+
+[ ![](imagem1.png)](https://karlagabriella.github.io/New%20project/)  
+
+O Bowel Game e um jogo do tipo tower onde você tem que ajudar as bacterias boas do intestino
+a se defender das bacterias ruins que vão tentar impedir o bom funcionamento da flora intestinal.
+Clik na imagem para jogar e divirta-se! (:  
+
+
 
 ## Artes
 * Desenhos
