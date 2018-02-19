@@ -7,7 +7,7 @@ layout: default
 # Quem sou eu
 
 Ola! eu me chamo Karla e esse e meu site, um lugar que você sempre vai encontrar meus projetos musicais,
-projetos de jogos, desenhos etc.Eu estou no terceiro ano do curso de jogos digitais no IFRN-Ceara-Mirim. 
+projetos de jogos, desenhos etc. Eu estou no terceiro ano do curso de jogos digitais no IFRN-Ceara-Mirim. 
 Espero que goste de minhas ideias (;
 
 ![](eu.jpg)  
@@ -54,7 +54,7 @@ Aqui vai se encontrar futuramente meus projetos de jogos.
 
 #### Projeto Musicais    
 
-Aqui se encontrará musicas feitas no aplicativo Audacety para meus jogos do futuro.
+Aqui se encontrará musicas feitas no aplicativo Audacity para meus jogos do futuro.
  
 
 # Contatos  
