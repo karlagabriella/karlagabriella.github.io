@@ -54,7 +54,7 @@ Aqui vai se encontrar futuramente meus projetos de jogos.
 
 #### Projeto Musicais    
 
-Aqui se encontrará musicas feitas no aplicativo Audacity para meus jogos do futuro.
+Aqui se encontrará musicas feitas no aplicativo Audacity para meus futuros jogos.
  
 
 # Contatos  
