@@ -58,4 +58,4 @@ Aqui se encontrará musicas feitas no aplicativo Audacety para meus jogos do fut
  
 
 # Contatos  
-[ ![](fb.png)](https://www.facebook.com/gabi.karla.feitosa)  [ ![](ig.png)](https://www.instagram.com/k_gabrielap/)  [ ![](pe.png)](https://br.pinterest.com/karlagabriella1206/)
+[ ![](fb.png)](https://www.facebook.com/gabi.karla.feitosa)  [ ![](ig.png)](https://www.instagram.com/k_gabrielap/)   [ ![](pe.png)](https://br.pinterest.com/karlagabriella1206/)  [ ![](git.png)](karlagabriella.github.io/)  
