@@ -44,7 +44,10 @@ Clik na imagem para jogar e divirta-se! (:
 * Desenhos
 
 ![](Bacteria1.png)  
-![](Bacteria2.png)
+![](Bacteria2.png)  
+![](caramujo.png)  
+![](Folha.png)  
+![](Sistema nervoso.png)
 
 
 
