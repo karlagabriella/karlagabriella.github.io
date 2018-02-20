@@ -44,7 +44,7 @@ Clik na imagem para jogar e divirta-se! (:
 * Desenhos
 
 ## Minha Empresa   
-![](logo.png)  
+![](logoo.png)  
 ![](LogoLivro.png)
 
 
