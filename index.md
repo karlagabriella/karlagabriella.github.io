@@ -44,7 +44,7 @@ Clik na imagem para jogar e divirta-se! (:
 ## Artes
 * Desenhos
 
-![](Bacteria1.png)  ![](Bacteria2.png)  ![](caramujo.png)    
+![](Bacteria1.png)       ![](Bacteria2.png)          ![](caramujo.png)    
 
 ***
 
