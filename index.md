@@ -65,4 +65,4 @@ Aqui se encontrará musicas feitas no aplicativo Audacity para meus futuros jogo
  
 
 # Contatos  
-[ ![](fb.png)](https://www.facebook.com/gabi.karla.feitosa)  [ ![](ig.png)](https://www.instagram.com/k_gabrielap/)   [ ![](pe.png)](https://br.pinterest.com/karlagabriella1206/)  [ ![](github.png)](karlagabriella.github.io/)  
+[ ![](fb.png)](https://www.facebook.com/gabi.karla.feitosa)  [ ![](ig.png)](https://www.instagram.com/k_gabrielap/)   [ ![](pe.png)](https://br.pinterest.com/karlagabriella1206/)  [ ![](github.png)](karlagabriella.github.io)  
