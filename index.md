@@ -48,9 +48,8 @@ Clik na imagem para jogar e divirta-se! (:
 
 *****
 
-## Minha Empresa   
-![](logoo.png)  
-![](LogoLivroooo.png) 
+## Minhas Empresas   
+![](logoo.png)  ![](LogoLivroooo.png) 
 
 *****
 
