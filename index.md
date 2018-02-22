@@ -46,7 +46,7 @@ Clik na imagem para jogar e divirta-se!  (:
 
 ![](Bacteria1.png)       ![](Bacteria2.png)          ![](caramujo.png)    
 
-
+![](boneco.png)
 
 
 ***
