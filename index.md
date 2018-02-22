@@ -49,7 +49,7 @@ Clik na imagem para jogar e divirta-se! (:
 ***
 
 ## Minhas Empresas   
-![](logoo.png)                           ![](LogoLivro.png) 
+![](logoo.png)                           ![](logolivro1.png) 
 
 ***
 
