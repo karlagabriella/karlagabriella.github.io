@@ -56,9 +56,9 @@ Clik na imagem para jogar e divirta-se! (:
 ## Projetos  
 
 ### Projeto Jogos   
-* Jogo Aventura 
+* Mystery Adventure
 
-![](aventura.png)  
+![](Mockup.png)  
 
 
 
