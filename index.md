@@ -58,7 +58,7 @@ Clik na imagem para jogar e divirta-se! (:
 
 ### Projeto Jogos   
 * Mystery Adventure  
-  *Mockup  
+  *Mockup*  
   
 ![](Mockup.png)  
 
