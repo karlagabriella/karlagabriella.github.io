@@ -23,7 +23,7 @@ Clik na imagem para jogar e divirta-se! (:
 [ ![](imagem3.png)](karlagabriella.github.io/LabyrinthFoodChain/)   
 
 Este e um jogo de labirindo onde você tem que ajudar o personagem a encontrar sua presa certa,
-e um jogo educativo voltado para a área da biologia onde você apende um pouco sobre cadeias alimentares.
+e um jogo educativo voltado para a área da biologia onde você aprende um pouco sobre cadeias alimentares.
 Clik na imagem para jogar e divirta-se! (:  
 
 [ ![](imagem2.png)](https://karlagabriella.github.io/Protetores%20da%20Floresta/)     
@@ -49,7 +49,7 @@ Clik na imagem para jogar e divirta-se! (:
 ***
 
 ## Minhas Empresas   
-![](logoo.png)    ![](LogoLivroooo.png) 
+![](logoo.png)                           ![](LogoLivro.png) 
 
 ***
 
