@@ -70,8 +70,7 @@ Clik na imagem para jogar e divirta-se!  (:
 * Mystery Adventure  
   *Mockup*  
   
-![](Mockup.png)  
-
+[ ![](Mockup.png)](https://www.youtube.com/watch?v=C-RhFRgGHBo)  
 
 
 #### Projeto Musicais    
