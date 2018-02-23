@@ -57,6 +57,12 @@ Clik na imagem para jogar e divirta-se!  (:
 
 ***
 
+***
+## Influence Map  
+![](influence map de karla.pdf)  
+
+***
+
 ## Projetos  
 
 ### Projeto Jogos   
