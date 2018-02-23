@@ -59,7 +59,7 @@ Clik na imagem para jogar e divirta-se!  (:
 
 ***
 ## Influence Map  
-![](influence map.png)  
+![](influence map.png) 
 
 ***
 
